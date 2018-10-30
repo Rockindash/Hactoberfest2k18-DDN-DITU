@@ -22,6 +22,12 @@ About: Code is Poetry.<br/>
 Programming Language: JavaScript<br/>
 Email: mrzahidjabbar@gmail.com<br/>
 
+Name : [Aman Kumar](https://github.com/Rockindash)<br/>
+Place: India<br/>
+About: Breathe in Code<br/>
+Programming Language: C++, Swift, C, React.<br/>
+Email: rockindash10@gmail.com<br/>
+
 Name : Rohit Sharma(https://github.com/rohit-94)<br/>
 Place: Delhi<br/>
 About: code-test-repeat<br/>
